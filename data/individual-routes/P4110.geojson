@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4110" }, "geometry": { "type": "LineString", "coordinates": [ [ 78.009617601290259, 53.738742096633629 ], [ 77.676500479240275, 54.090027082133879 ], [ 77.268839673350129, 54.359855825695902 ], [ 76.589311840598285, 54.699521845003581 ], [ 76.476317962532761, 55.270067495278276 ] ] } }
-]
-}
