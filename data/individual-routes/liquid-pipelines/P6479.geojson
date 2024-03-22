@@ -1684,21 +1684,6 @@
         {
             "type": "Feature",
             "properties": {
-                "source": "NHD"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -89.74599540000,
-                        30.41868320000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "pipeline": "valve"
             },
             "geometry": {

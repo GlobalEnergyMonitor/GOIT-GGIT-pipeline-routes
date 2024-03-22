@@ -2264,29 +2264,6 @@
         {
             "type": "Feature",
             "properties": {
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "man_made": "pipeline",
-                "name": "Ozona Gathering System",
-                "operator": "DCP Operating Company, LP",
-                "ref": "OZ-201",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -101.21490740000,
-                        30.68141456827
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "24\"",
                 "layer": "-1",
                 "location": "underground",

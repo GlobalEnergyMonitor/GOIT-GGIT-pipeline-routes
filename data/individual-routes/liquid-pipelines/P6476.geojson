@@ -5,22 +5,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "path",
-                "informal": "yes"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -93.27547660000,
-                        30.30087820000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "12.75\"",
                 "layer": "-1",
                 "location": "underground",
@@ -593,22 +577,6 @@
         {
             "type": "Feature",
             "properties": {
-                "access": "private",
-                "highway": "service"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.93847910000,
-                        33.25637930000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "operator": "Dixie Pipeline Company LLC",
                 "pipeline": "valve"
             },
@@ -950,23 +918,6 @@
                 "coordinates": [
                     -83.17665790000,
                     33.41721570000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "natural": "wood"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -83.78704250000,
-                            33.30408190000
-                        ]
-                    ]
                 ]
             }
         },
@@ -1332,29 +1283,6 @@
         {
             "type": "Feature",
             "properties": {
-                "NHD:ComID": "49674191",
-                "NHD:FCode": "46003",
-                "NHD:FType": "StreamRiver",
-                "NHD:RESOLUTION": "High",
-                "NHD:ReachCode": "3070103009287",
-                "NHD:way_id": "49674191",
-                "attribution": "NHD",
-                "source": "NHD_import_v0.3_20090424145328",
-                "waterway": "stream"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.76200200000,
-                        33.31627800000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "pipeline": "valve"
             },
             "geometry": {
@@ -1375,33 +1303,6 @@
                 "coordinates": [
                     -78.83767810000,
                     35.70716490000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "primary",
-                "name": "Plank Road",
-                "name_1": "State Route 67",
-                "ref": "LA 67",
-                "shoulder": "yes",
-                "surface": "asphalt",
-                "tiger:cfcc": "A31",
-                "tiger:county": "East Baton Rouge, LA",
-                "tiger:name_base": "Plank",
-                "tiger:name_base_1": "State Route 67",
-                "tiger:name_type": "Rd",
-                "tiger:zip_left": "70791",
-                "tiger:zip_right": "70791"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -91.11042830000,
-                        30.63229750000
-                    ]
                 ]
             }
         },
@@ -2238,21 +2139,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "service"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -91.79285240000,
-                        30.38334880000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "8.63\"",
                 "layer": "-1",
                 "location": "underground",
@@ -2308,22 +2194,6 @@
                     [
                         -91.91721300000,
                         30.28006120000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "access": "private",
-                "highway": "service"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.93647180000,
-                        33.25707620000
                     ]
                 ]
             }
@@ -2861,29 +2731,6 @@
                 "coordinates": [
                     -84.95262990000,
                     32.63772660000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "trunk",
-                "lanes": "2",
-                "maxspeed": "55 mph",
-                "ref": "AL 69",
-                "surface": "asphalt",
-                "tiger:cfcc": "A31",
-                "tiger:county": "Hale, AL",
-                "tiger:name_base": "State Route 69",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -87.69435800000,
-                        32.51935700000
-                    ]
                 ]
             }
         },
@@ -4260,28 +4107,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "secondary",
-                "lanes": "2",
-                "maxspeed": "55 mph",
-                "name": "State Route 25",
-                "ref": "AL 25",
-                "surface": "asphalt",
-                "tiger:name_base_2": "County Road 44",
-                "tiger:zip_left": "36738"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -87.59673470000,
-                        32.52714000000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "6.63\"",
                 "layer": "-1",
                 "location": "underground",
@@ -4974,34 +4799,6 @@
                 "coordinates": [
                     -79.91666920000,
                     34.71688600000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "construction": "primary",
-                "highway": "construction",
-                "name": "Plank Road",
-                "name_1": "State Route 67",
-                "ref": "LA 67",
-                "shoulder": "yes",
-                "surface": "asphalt",
-                "tiger:cfcc": "A31",
-                "tiger:county": "East Baton Rouge, LA",
-                "tiger:name_base": "Plank",
-                "tiger:name_base_1": "State Route 67",
-                "tiger:name_type": "Rd",
-                "tiger:zip_left": "70791",
-                "tiger:zip_right": "70791"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -91.11042830000,
-                        30.63229750000
-                    ]
                 ]
             }
         },
@@ -6305,22 +6102,6 @@
         {
             "type": "Feature",
             "properties": {
-                "access": "private",
-                "highway": "service"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.93272930000,
-                        33.25834670000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "pipeline": "valve"
             },
             "geometry": {
@@ -7438,28 +7219,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "unclassified",
-                "name": "Bullard Road",
-                "surface": "unpaved",
-                "tiger:cfcc": "A41",
-                "tiger:county": "Jasper, GA",
-                "tiger:name_base": "Bullard",
-                "tiger:name_type": "Rd",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.56818380000,
-                        33.34426470000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "location:transition": "yes"
             },
             "geometry": {
@@ -7864,27 +7623,6 @@
                 "coordinates": [
                     -78.86233820000,
                     35.68246900000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "residential",
-                "name": "Parks Road",
-                "tiger:cfcc": "A41",
-                "tiger:county": "Pike, GA",
-                "tiger:name_base": "Parks",
-                "tiger:name_type": "Rd",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -84.26038950000,
-                        33.12110590000
-                    ]
                 ]
             }
         },
@@ -8534,28 +8272,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "residential",
-                "tiger:cfcc": "A41",
-                "tiger:county": "Jasper, GA",
-                "tiger:reviewed": "no",
-                "tiger:separated": "no",
-                "tiger:source": "tiger_import_dch_v0.6_20070809",
-                "tiger:tlid": "66632480:66627186:66632479",
-                "tiger:upload_uuid": "bulk_upload.pl-a9584ed9-95cd-4e98-bda4-0d1b23f586a1"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.63232860000,
-                        33.33861220000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "12.75\"",
                 "layer": "-1",
                 "location": "underground",
@@ -8735,23 +8451,6 @@
                 "coordinates": [
                     -85.29701540000,
                     32.51645130000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "access": "no",
-                "highway": "path",
-                "informal": "yes"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -93.27547660000,
-                        30.30087820000
-                    ]
                 ]
             }
         },
@@ -9251,32 +8950,6 @@
                     [
                         -84.11418160000,
                         31.49593610000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "residential",
-                "lanes": "2",
-                "maxspeed": "25 mph",
-                "name": "Canebrake Boulevard",
-                "surface": "asphalt",
-                "tiger:cfcc": "A41",
-                "tiger:county": "Lamar, MS",
-                "tiger:name_base": "Canebreak",
-                "tiger:name_type": "Blvd",
-                "tiger:reviewed": "no",
-                "tiger:zip_left": "39402",
-                "tiger:zip_right": "39402"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -89.45630510000,
-                        31.31840870000
                     ]
                 ]
             }
@@ -9945,57 +9618,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "primary",
-                "lanes": "2",
-                "maxspeed": "55 mph",
-                "ref": "GA 83",
-                "surface": "asphalt",
-                "tiger:cfcc": "A31",
-                "tiger:county": "Jasper, GA",
-                "tiger:name_base": "State Route 83",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.65373420000,
-                        33.33694570000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fixme": "alignment approximate",
-                "highway": "primary",
-                "lanes": "2",
-                "maxspeed": "55 mph",
-                "name": "Perimeter Road",
-                "oneway": "no",
-                "ref": "GA 380",
-                "surface": "asphalt",
-                "tiger:cfcc": "A31",
-                "tiger:county": "Jasper, GA",
-                "tiger:name_base": "Perimeter",
-                "tiger:name_base_1": "State Route 380",
-                "tiger:name_type": "Rd",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -83.64438830000,
-                        33.33603340000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "6.63\"",
                 "layer": "-1",
                 "location": "underground",
@@ -10065,41 +9687,6 @@
                     [
                         -78.83550770000,
                         35.70801730000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "bicycle": "yes",
-                "highway": "path",
-                "name": "Blue Trail",
-                "surface": "ground"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -93.26473910000,
-                        30.30569900000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "primary",
-                "name": "Plank Road",
-                "ref": "LA 67"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -91.11042830000,
-                        30.63229750000
                     ]
                 ]
             }
@@ -15035,23 +14622,6 @@
                     [
                         -82.71348060000,
                         33.49691970000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "landuse": "farmland"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -83.78704250000,
-                            33.30408190000
-                        ]
                     ]
                 ]
             }
