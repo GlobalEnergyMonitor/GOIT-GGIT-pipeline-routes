@@ -1332,28 +1332,6 @@
         {
             "type": "Feature",
             "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Driscoll System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.81532580000,
-                        27.61217640000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "pipeline": "valve"
             },
             "geometry": {

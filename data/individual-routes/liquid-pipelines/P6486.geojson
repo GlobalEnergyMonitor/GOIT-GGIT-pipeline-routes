@@ -1674,28 +1674,6 @@
             "type": "Feature",
             "properties": {
                 "abandoned:man_made": "pipeline",
-                "diameter": "3.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Heyser System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -96.88490220000,
-                        28.61754080000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
                 "diameter": "12.75\"",
                 "layer": "-1",
                 "location": "underground",
@@ -2256,28 +2234,6 @@
             "type": "Feature",
             "properties": {
                 "abandoned:man_made": "pipeline",
-                "diameter": "3.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Placedo System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -96.74337900000,
-                        28.74505090000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
                 "diameter": "12.75\"",
                 "layer": "-1",
                 "location": "underground",
@@ -2504,28 +2460,6 @@
                     [
                         -95.08713950000,
                         29.69415200000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "2.38\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Tivoli System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.01252410000,
-                        28.48757650000
                     ]
                 ]
             }
@@ -3981,28 +3915,6 @@
             "type": "Feature",
             "properties": {
                 "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Placedo System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -96.77241140000,
-                        28.71886060000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
                 "diameter": "12.75\"",
                 "layer": "-1",
                 "location": "underground",
@@ -4638,28 +4550,6 @@
                     [
                         -95.39798470000,
                         29.62114370000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Placedo System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -96.75730160000,
-                        28.73412650000
                     ]
                 ]
             }

@@ -1300,24 +1300,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "cycleway",
-                "mtb:scale": "2",
-                "name": "South Ridge Trail",
-                "surface": "ground"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -90.69573970000,
-                        35.13939250000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "operator": "Enterprise Products Operating, LLC",
                 "pipeline": "valve"
             },
@@ -3001,28 +2983,6 @@
                 "coordinates": [
                     -94.05409860000,
                     29.93808760000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "diameter": "8.63\"",
-                "layer": "-1",
-                "location": "underground",
-                "man_made": "pipeline",
-                "operator": "Enterprise Products Operating, LLC",
-                "ref": "6395",
-                "substance": "fuel",
-                "usage": "transmission"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -95.36358520000,
-                        29.97315540000
-                    ]
                 ]
             }
         },
@@ -19189,41 +19149,6 @@
                 "coordinates": [
                     -94.12059190000,
                     29.97015850000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "cycleway",
-                "mtb:scale": "3",
-                "name": "Deer Run Trail",
-                "oneway": "no",
-                "surface": "ground"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -90.71371530000,
-                        35.14282560000
-                    ],
-                    [
-                        -90.71594720000,
-                        35.14362130000
-                    ],
-                    [
-                        -90.71691820000,
-                        35.14382160000
-                    ],
-                    [
-                        -90.71843710000,
-                        35.14431180000
-                    ],
-                    [
-                        -90.72408060000,
-                        35.14496830000
-                    ]
                 ]
             }
         },
