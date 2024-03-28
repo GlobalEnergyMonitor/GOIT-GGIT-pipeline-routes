@@ -782,28 +782,6 @@
         {
             "type": "Feature",
             "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "3.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Driscoll System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.85670620000,
-                        27.69755720000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "8.63\"",
                 "layer": "-1",
                 "location": "underground",
@@ -4153,28 +4131,6 @@
         {
             "type": "Feature",
             "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "8.6\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Plymouth, Portilla, and Rooke Fields",
-                "operator": "Dallas Petroleum Group, LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.37845680000,
-                        28.08715960000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "6.63\"",
                 "layer": "-1",
                 "location": "underground",
@@ -5207,28 +5163,6 @@
                     [
                         -95.29173520000,
                         29.34142730000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Driscoll System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.85672500000,
-                        27.69219020000
                     ]
                 ]
             }
@@ -7600,50 +7534,6 @@
         {
             "type": "Feature",
             "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Stratton 300# Csghd Gath. Sys.",
-                "operator": "Exxon Mobil Corporation",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.90841430000,
-                        27.60368980000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "operator": "Seadrift Pipeline Corporation",
-                "ref": "LUMAR PIPELINE",
-                "substance": "gas",
-                "usage": "transmission"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -96.77489560000,
-                        28.50392590000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "diameter": "4.5\"",
                 "layer": "-1",
                 "location": "underground",
@@ -7771,28 +7661,6 @@
                 "coordinates": [
                     -94.96512410000,
                     29.33242720000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "2.88\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Plymouth, Portilla, and Rooke Fields",
-                "operator": "Dallas Petroleum Group, LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.37960410000,
-                        28.08621990000
-                    ]
                 ]
             }
         },
@@ -9890,28 +9758,6 @@
                     [
                         -94.92907900000,
                         29.83465970000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Driscoll System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.82921530000,
-                        27.74376160000
                     ]
                 ]
             }
@@ -15244,28 +15090,6 @@
                 "coordinates": [
                     -96.75689800000,
                     28.51555040000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "abandoned:man_made": "pipeline",
-                "diameter": "4.5\"",
-                "layer": "-1",
-                "location": "underground",
-                "name": "Driscoll System",
-                "operator": "Enerfin Field Services LLC",
-                "substance": "gas",
-                "usage": "gathering"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -97.82787590000,
-                        27.63614320000
-                    ]
                 ]
             }
         }
