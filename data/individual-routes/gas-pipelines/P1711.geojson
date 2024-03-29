@@ -1,7 +1,38 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P1711" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.633655, 45.928762 ], [ 13.90521, 45.887113 ] ], [ [ 13.90521, 45.887113 ], [ 14.189347, 45.89476 ] ], [ [ 14.189347, 45.89476 ], [ 14.493541, 46.189905 ] ] ] } }
-]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProjectID": "P5895",
+                "man_made": "pipeline"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.62093730000,
+                        45.93985810000
+                    ],
+                    [
+                        13.65562620000,
+                        45.92183700000
+                    ],
+                    [
+                        13.90520280000,
+                        45.88709450000
+                    ],
+                    [
+                        14.18941400000,
+                        45.89476520000
+                    ],
+                    [
+                        14.49356620000,
+                        46.18990430000
+                    ]
+                ]
+            }
+        }
+    ]
 }
