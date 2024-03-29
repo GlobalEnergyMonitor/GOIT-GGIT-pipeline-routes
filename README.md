@@ -24,7 +24,7 @@ or like this:
 ## Contribute by creating a new branch and a pull request
 
 If you update a route or multiple routes...
-1. Create a _new_ branch with a short, informative title (for exampl, `firstname-p9998-p9999`)
+1. Create a _new_ branch with a short, informative title (for example, `firstname-p9998-p9999`)
 2. Add your changes to the branch and push it to the repository
 3. Create a pull request and assign it to Baird for review
 
