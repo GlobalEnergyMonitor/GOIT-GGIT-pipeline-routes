@@ -5,21 +5,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "service"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -103.85999880000,
-                        31.94269980000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "layer": "-1",
                 "location": "underground",
                 "man_made": "pipeline",
@@ -359,72 +344,6 @@
                     [
                         -103.82731855452,
                         32.16306607879
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "residential",
-                "tiger:cfcc": "A41",
-                "tiger:county": "Loving, TX",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -103.85999880000,
-                        31.94269980000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "service"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -103.85831150000,
-                        31.98070290000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "service"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -103.86107520000,
-                        31.91260920000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "highway": "track",
-                "tiger:cfcc": "A41",
-                "tiger:county": "Loving, TX",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -103.85935100000,
-                        31.92618320000
                     ]
                 ]
             }
