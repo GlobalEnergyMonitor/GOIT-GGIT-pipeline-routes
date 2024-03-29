@@ -30,7 +30,7 @@ If you update a route or multiple routes...
 
 ## How can I create a GeoJSON file from scratch for a route?
 
-* If you are comfortable working in [QGIS](https://www.qgis.org/en/site/) or [JOSM](https://josm.openstreetmap.de/), those are the most complex ways to do it. Create a route or edit an existing one and re-export it as a GeoJSON file. You __don't__ need to include any specific information about the pipelin in the GeoJSON, the only way I ask you to label it is via the title: `[ProjectID].geojson`.
+* If you are comfortable working in [QGIS](https://www.qgis.org/en/site/) or [JOSM](https://josm.openstreetmap.de/), those are the most complex ways to do it. Create a route or edit an existing one and re-export it as a GeoJSON file. You __don't__ need to include any specific information about the pipeline itself (name, status, etc.) in the GeoJSON file; the __only__ way I ask you to label it is via the title: `[ProjectID].geojson`. (You can of course include more info, but it's not necessary.)
 
 * If you're creating a new route from scratch, and the tools above aren't familiar, try using [geojson.io](https://geojson.io/) or [placemark.io](https://play.placemark.io/).
 
