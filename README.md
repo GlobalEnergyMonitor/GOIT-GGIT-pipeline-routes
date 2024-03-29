@@ -16,3 +16,26 @@ An example of an "empty" GeoJSON file could look something like this:
 ]
 }
 ```
+or like this:
+```
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":null}]}
+```
+
+## Contribute by creating a new branch and a pull request
+
+If you update a route or multiple routes...
+1. Create a _new_ branch with a short, informative title (for exampl, `firstname-p9998-p9999`)
+2. Add your changes to the branch and push it to the repository
+3. Create a pull request and assign it to Baird for review
+
+## How can I create a GeoJSON file from scratch for a route?
+
+* If you are comfortable working in [QGIS](https://www.qgis.org/en/site/) or [JOSM](https://josm.openstreetmap.de/), those are the most complex ways to do it. Create a route or edit an existing one and re-export it as a GeoJSON file. You __don't__ need to include any specific information about the pipelin in the GeoJSON, the only way I ask you to label it is via the title: `[ProjectID].geojson`.
+
+* If you're creating a new route from scratch, and the tools above aren't familiar, try using [geojson.io](https://geojson.io/) or [placemark.io](https://play.placemark.io/).
+
+* If you're editing an existing route, you can import the GeoJSON file that already exists for it
+
+## Coordinate reference system
+
+The [GeoJSON](https://geojson.org/) file format specification says that GeoJSON files use a WSG 84 (EPSG:4326) coordinate reference system, so this is expected for all pipelines and no crs is required in the GeoJSON file.
