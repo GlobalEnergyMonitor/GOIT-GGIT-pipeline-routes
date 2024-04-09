@@ -6831,24 +6831,6 @@
         {
             "type": "Feature",
             "properties": {
-                "highway": "residential",
-                "tiger:cfcc": "A41",
-                "tiger:county": "Cherokee, TX",
-                "tiger:reviewed": "no"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -95.08868300000,
-                        31.53614100000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "layer": "-1",
                 "location": "underground",
                 "man_made": "pipeline",
