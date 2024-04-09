@@ -1685,27 +1685,6 @@
         {
             "type": "Feature",
             "properties": {
-                "industrial": "gas_plant",
-                "landuse": "industrial",
-                "name": "South Hampton Gas Plant",
-                "operator": "South Hampton Resources LLC",
-                "substation": "gas"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -94.22802950000,
-                            30.39638880000
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "layer": "-1",
                 "location": "underground",
                 "man_made": "pipeline",
