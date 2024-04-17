@@ -18,7 +18,15 @@ An example of an "empty" GeoJSON file could look something like this:
 ```
 or like this:
 ```
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":null}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature", 
+            "geometry": null
+        }
+    ]
+}
 ```
 
 ## Contribute by creating a new branch and a pull request
