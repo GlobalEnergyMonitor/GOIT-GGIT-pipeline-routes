@@ -3900,6 +3900,55 @@
         {
             "type": "Feature",
             "properties": {
+                "NUM_UNITS": "1",
+                "VAL_METHOD": "IMAGERY/OTHER",
+                "COUNTY": "NOT APPLICABLE",
+                "CERT_HP": "156",
+                "NAME": "FIELD: BLOCK 334B - H.I. (SEE FOOTNOTE)",
+                "OP_COMP_HR": "0",
+                "ADDRESS": "OFFSHORE CS",
+                "EXP_POWER": "0",
+                "WEBSITE": "https://www.anrpl.com/company_info/",
+                "LONGITUDE": "-93.67590332",
+                "POSREL": "THIRD PARTY",
+                "EXP_FUEL": "0",
+                "COUNTRY": "USA",
+                "OBJECTID": "245",
+                "COUNTYFIPS": "NOT APPLICABLE",
+                "OP_DATE_PE": "Wed, 15 Jul 2020 00:00:00 GMT",
+                "STATUS": "IN SERVICE",
+                "ZIP4": "NOT APPLICABLE",
+                "ZIP": "NOT APPLICABLE",
+                "LATITUDE": "28.1323242190001",
+                "PIPECO": "ANR PIPELINE COMPANY",
+                "COMPID": "48",
+                "VAL_DATE": "Fri, 17 Jun 2022 00:00:00 GMT",
+                "GAS_COMPRE": "0",
+                "GCOMPID": "GCOMP1219",
+                "EXP_OTHER": "0",
+                "CITY": "NOT APPLICABLE",
+                "NAICS_DESC": "BOOSTER PUMPING STATION, NATURAL GAS TRANSPORTATION",
+                "OPERATOR": "ANR PIPELINE COMPANY",
+                "STATE": "NOT APPLICABLE",
+                "SOURCE": "FERC FORM 2, CORPORATE WEBSITE",
+                "TYPE": "NATURAL GAS COMPRESSOR STATION",
+                "ELEC_COMPR": "0",
+                "NAICS_CODE": "486210",
+                "SOURCEDATE": "Wed, 15 Jul 2020 00:00:00 GMT",
+                "PLANT_COST": "-999",
+                "OP_NUM_COM": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.67590332000,
+                    28.13232421900
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "OBJECTID": "7",
                 "Operator": "ANR Pipeline Co",
                 "AnalysisArea": "0",
@@ -11568,6 +11617,14 @@
                     [
                         -93.67586911200,
                         28.13235842700
+                    ],
+                    [
+                        -93.67590332000,
+                        28.13232421900
+                    ],
+                    [
+                        -93.67590333337,
+                        28.13232419618
                     ],
                     [
                         -93.99110700000,
