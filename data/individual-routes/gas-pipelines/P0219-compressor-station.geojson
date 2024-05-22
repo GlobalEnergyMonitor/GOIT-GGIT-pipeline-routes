@@ -1,8 +1,68 @@
 {
-"type": "FeatureCollection",
-"name": "P0219-compressor-station",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "OBJECTID": 1, "GCOMPID": "92", "NAME": "MOHAVE", "ADDRESS": "3", "CITY": "IMAGERY/OTHER", "STATE": "AZ", "ZIP": "0", "ZIP4": "12240", "TYPE": "446", "STATUS": "USA", "COUNTY": "678398", "COUNTYFIPS": "1548416", "COUNTRY": "MOJAVE PIPELINE COMPANY L.L.C.", "LATITUDE": 0.0, "LONGITUDE": 0.0, "NAICS_CODE": "Fri, 20 Nov 2020 00:00:00 GMT", "NAICS_DESC": "TOPOCK - ARIZONA", "SOURCE": "86436", "SOURCEDATE": "23095", "VAL_METHOD": "32031635", "VAL_DATE": "34.726327999", "WEBSITE": "WITHIN 40 FEET", "PIPECO": "Fri, 17 Jun 2022 00:00:00 GMT", "COMPID": "1418756", "OPERATOR": "NOT AVAILABLE", "POSREL": "https://pipeportal.kindermorgan.com/portalui/DefaultKM.aspx?TSP=MOJD", "NUM_UNITS": 0, "CERT_HP": 0, "PLANT_COST": 3, "EXP_FUEL": -114, "EXP_OTHER": 0, "GAS_COMPRE": 0, "OP_COMP_HR": 4015, "OP_NUM_COM": 0, "OP_DATE_PE": "486210", "EXP_POWER": 0, "ELEC_COMPR": 0 }, "geometry": { "type": "Point", "coordinates": [ -114.463671907539407, 34.72632799944936 ] } }
-]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "operator": "MOJAVE PIPELINE COMPANY L.L.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.85046256125,
+                    34.85087875941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "WEBSITE": "WITHIN 40 FEET",
+                "NAICS_DESC": "TOPOCK - ARIZONA",
+                "NUM_UNITS": "0",
+                "CITY": "IMAGERY/OTHER",
+                "STATE": "AZ",
+                "EXP_POWER": "0",
+                "STATUS": "USA",
+                "VAL_DATE": "34.726327999",
+                "OBJECTID": "1",
+                "VAL_METHOD": "32031635",
+                "COUNTYFIPS": "1548416",
+                "OPERATOR": "NOT AVAILABLE",
+                "ZIP4": "12240",
+                "SOURCEDATE": "23095",
+                "ADDRESS": "3",
+                "LATITUDE": "0.0",
+                "COMPID": "1418756",
+                "SOURCE": "86436",
+                "NAME": "MOHAVE",
+                "GAS_COMPRE": "0",
+                "PLANT_COST": "3",
+                "EXP_FUEL": "-114",
+                "GCOMPID": "92",
+                "COUNTRY": "MOJAVE PIPELINE COMPANY L.L.C.",
+                "OP_DATE_PE": "486210",
+                "OP_COMP_HR": "4015",
+                "EXP_OTHER": "0",
+                "PIPECO": "Fri, 17 Jun 2022 00:00:00 GMT",
+                "POSREL": "https://pipeportal.kindermorgan.com/portalui/DefaultKM.aspx?TSP=MOJD",
+                "TYPE": "446",
+                "CERT_HP": "0",
+                "ZIP": "0",
+                "COUNTY": "678398",
+                "ELEC_COMPR": "0",
+                "NAICS_CODE": "Fri, 20 Nov 2020 00:00:00 GMT",
+                "OP_NUM_COM": "0",
+                "LONGITUDE": "0.0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.46367190754,
+                    34.72632799945
+                ]
+            }
+        }
+    ]
 }
