@@ -1,7 +1,709 @@
+
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P2577" }, "geometry": null }
-]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -103.10845900000,
+                        31.94985700000
+                    ],
+                    [
+                        -103.10957402430,
+                        31.95198399341
+                    ],
+                    [
+                        -103.11159008091,
+                        31.95158825912
+                    ],
+                    [
+                        -103.11113841186,
+                        31.95019748696
+                    ],
+                    [
+                        -103.11630620469,
+                        31.94878388446
+                    ],
+                    [
+                        -103.11317680163,
+                        31.94015626186
+                    ],
+                    [
+                        -103.11646418586,
+                        31.93449362296
+                    ],
+                    [
+                        -103.11819052409,
+                        31.93377084623
+                    ],
+                    [
+                        -103.13071464753,
+                        31.91354533616
+                    ],
+                    [
+                        -103.13336842751,
+                        31.91292808716
+                    ],
+                    [
+                        -103.13250600763,
+                        31.91024889425
+                    ],
+                    [
+                        -103.13937870415,
+                        31.89822125303
+                    ],
+                    [
+                        -103.13952245986,
+                        31.89640678500
+                    ],
+                    [
+                        -103.14040460424,
+                        31.89331987693
+                    ],
+                    [
+                        -103.14115855470,
+                        31.89128915160
+                    ],
+                    [
+                        -103.14209899465,
+                        31.89038693766
+                    ],
+                    [
+                        -103.14802569783,
+                        31.88344334610
+                    ],
+                    [
+                        -103.15771938277,
+                        31.86889943186
+                    ],
+                    [
+                        -103.16502095282,
+                        31.85763784123
+                    ],
+                    [
+                        -103.16939619268,
+                        31.84972866691
+                    ],
+                    [
+                        -103.17575901258,
+                        31.83450375318
+                    ],
+                    [
+                        -103.17619935198,
+                        31.83020803787
+                    ],
+                    [
+                        -103.18044653596,
+                        31.81628038345
+                    ],
+                    [
+                        -103.18019554050,
+                        31.78190236087
+                    ],
+                    [
+                        -103.17889314546,
+                        31.76944254276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45417591902,
+                        33.53933828061
+                    ],
+                    [
+                        -113.45414504702,
+                        33.53933960461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45405152899,
+                        33.53927553461
+                    ],
+                    [
+                        -113.45404979099,
+                        33.53924669660
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45413538300,
+                        33.53916957559
+                    ],
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414504702,
+                        33.53933960461
+                    ],
+                    [
+                        -113.45408807600,
+                        33.53934204761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414504702,
+                        33.53933960461
+                    ],
+                    [
+                        -113.45414087301,
+                        33.53927978360
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414087301,
+                        33.53927978360
+                    ],
+                    [
+                        -113.45413538300,
+                        33.53916957559
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45408807600,
+                        33.53934204761
+                    ],
+                    [
+                        -113.45405609100,
+                        33.53934341862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ],
+                    [
+                        -113.45417169102,
+                        33.53927825660
+                    ],
+                    [
+                        -113.45417419102,
+                        33.53931315661
+                    ],
+                    [
+                        -113.45417591902,
+                        33.53933828061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45405152899,
+                        33.53927553461
+                    ],
+                    [
+                        -113.45408807600,
+                        33.53934204761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ],
+                    [
+                        -113.45417367402,
+                        33.53931319761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45405609100,
+                        33.53934341862
+                    ],
+                    [
+                        -113.45405152899,
+                        33.53927553461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414087301,
+                        33.53927978360
+                    ],
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45417591902,
+                        33.53933828061
+                    ],
+                    [
+                        -113.45414504702,
+                        33.53933960461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45405152899,
+                        33.53927553461
+                    ],
+                    [
+                        -113.45404979099,
+                        33.53924669660
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45413538300,
+                        33.53916957559
+                    ],
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414504702,
+                        33.53933960461
+                    ],
+                    [
+                        -113.45408807600,
+                        33.53934204761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414504702,
+                        33.53933960461
+                    ],
+                    [
+                        -113.45414087301,
+                        33.53927978360
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414087301,
+                        33.53927978360
+                    ],
+                    [
+                        -113.45413538300,
+                        33.53916957559
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45408807600,
+                        33.53934204761
+                    ],
+                    [
+                        -113.45405609100,
+                        33.53934341862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ],
+                    [
+                        -113.45417169102,
+                        33.53927825660
+                    ],
+                    [
+                        -113.45417419102,
+                        33.53931315661
+                    ],
+                    [
+                        -113.45417591902,
+                        33.53933828061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45413538300,
+                        33.53916957559
+                    ],
+                    [
+                        -113.45413488900,
+                        33.53915767659
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45405152899,
+                        33.53927553461
+                    ],
+                    [
+                        -113.45408807600,
+                        33.53934204761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ],
+                    [
+                        -113.45417367402,
+                        33.53931319761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45413538300,
+                        33.53916957559
+                    ],
+                    [
+                        -113.45413488900,
+                        33.53915767659
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45405609100,
+                        33.53934341862
+                    ],
+                    [
+                        -113.45405152899,
+                        33.53927553461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "7",
+                "BusinessUnitCL": "NATURAL GAS",
+                "CompanyCode": "EPNG",
+                "Shape__Length": "171.007901004372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.45414087301,
+                        33.53927978360
+                    ],
+                    [
+                        -113.45416056601,
+                        33.53927880760
+                    ]
+                ]
+            }
+        }
+    ]
 }
