@@ -1671,54 +1671,6 @@
         {
             "type": "Feature",
             "properties": {
-                "NUM_UNITS": "2.0",
-                "LONGITUDE": "-105.393253476",
-                "VAL_METHOD": "IMAGERY/OTHER",
-                "ADDRESS": "773 WY-94",
-                "WEBSITE": "http://pipeline.tallgrassenergylp.com/",
-                "COMPID": "53",
-                "VAL_DATE": "2022-06-20",
-                "OP_DATE_PE": "2020-07-16",
-                "OP_COMP_HR": "8429.0",
-                "SOURCEDATE": "2020-07-15",
-                "EXP_FUEL": "0.0",
-                "COUNTRY": "USA",
-                "OPERATOR": "TALLGRASS INTERSTATE GAS TRANSMISSION L.L.C.",
-                "EXP_POWER": "0.0",
-                "LATITUDE": "42.652792671",
-                "ELEC_COMPR": "24940766.0",
-                "STATUS": "IN SERVICE",
-                "GCOMPID": "GCOMP851",
-                "NAME": "LABONTE",
-                "PIPECO": "TALLGRASS INTERSTATE GAS TRANSMISSION L.L.C.",
-                "ZIP": "82633",
-                "POSREL": "WITHIN 40 FEET",
-                "ZIP4": "NOT AVAILABLE",
-                "COUNTYFIPS": "56009",
-                "GAS_COMPRE": "0.0",
-                "SOURCE": "EPA ENVIROFACTS, FERC FORM 2, CORPORATE WEBSITE",
-                "PLANT_COST": "16353016.0",
-                "CITY": "DOUGLAS",
-                "CERT_HP": "11000.0",
-                "STATE": "WY",
-                "OP_NUM_COM": "1.0",
-                "EXP_OTHER": "0.0",
-                "NAICS_DESC": "BOOSTER PUMPING STATION, NATURAL GAS TRANSPORTATION",
-                "TYPE": "NATURAL GAS COMPRESSOR STATION",
-                "NAICS_CODE": "486210",
-                "COUNTY": "CONVERSE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.39325347600,
-                    42.65279267100
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Count_": "374",
                 "AnalysisArea": "0",
                 "Operator": "Tallgrass Interstate Gas Transmission",
