@@ -9,16 +9,6 @@ If a given project does not have a route, either because it's a capacity expansi
 An example of an "empty" GeoJSON file could look something like this:
 ```
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P6445" }, "geometry": null }
-]
-}
-```
-or like this:
-```
-{
     "type": "FeatureCollection",
     "features": [
         {
