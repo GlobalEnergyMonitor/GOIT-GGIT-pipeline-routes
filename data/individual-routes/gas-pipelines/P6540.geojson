@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProjectID": "P6540"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        71.90763477084,
+                        71.78230233833
+                    ],
+                    [
+                        68.90469973373,
+                        70.34854771640
+                    ],
+                    [
+                        68.32468807161,
+                        70.35737554632
+                    ]
+                ]
+            }
+        }
+    ]
+}
