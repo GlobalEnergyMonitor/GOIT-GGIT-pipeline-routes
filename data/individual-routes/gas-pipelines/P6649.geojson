@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "layer": "-5",
+                "location": "underground",
+                "man_made": "pipeline",
+                "substance": "gas",
+                "name": "Trans Mediterranean Pipeline"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.05576190000,
+                        37.01769780000
+                    ],
+                    [
+                        12.53273130000,
+                        37.65839070000
+                    ],
+                    [
+                        12.54078339790,
+                        37.66749579624
+                    ]
+                ]
+            }
+        }
+    ]
+}
