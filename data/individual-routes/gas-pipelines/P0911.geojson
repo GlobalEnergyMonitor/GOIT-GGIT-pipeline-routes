@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P0911_FInal",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P0911" }, "geometry": { "type": "LineString", "coordinates": [ [ 78.920382, 8.216145 ], [ 79.795825, 10.825782 ] ] } }
+{ "type": "Feature", "properties": { "felt:color": "#723FA6", "felt:id": "NdzTQJeOTyCSooIRZKXV0A", "felt:locked": false, "felt:ordering": 1721845109992036, "felt:routeMode": "NONE", "felt:showLength": false, "felt:strokeOpacity": 1, "felt:strokeStyle": "solid", "felt:strokeWidth": 4, "felt:type": "Path" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 77.901456382806003, 9.192218240315176 ], [ 78.2125321, 9.2731551 ], [ 78.3411459, 9.2820108 ], [ 78.603743052249897, 9.362674037914671 ] ] ] } }
 ]
 }
