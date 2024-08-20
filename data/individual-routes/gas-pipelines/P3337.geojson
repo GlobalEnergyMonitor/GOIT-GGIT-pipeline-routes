@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P3337",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P3337" }, "geometry": { "type": "LineString", "coordinates": [ [ 32.368935190698707, -26.873543416020315 ], [ 32.033287897849974, -28.792092585851805 ] ] } }
+{ "type": "Feature", "properties": { "id": 1, "Name": "Mozambique-Richards Bay Gas Pipeline", "Type": "Main" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 32.107941448607342, -28.752716777442682 ], [ 32.153037630804633, -28.43513077838956 ], [ 32.179421619167655, -28.028337783598442 ], [ 32.19261361334916, -27.725148806614371 ], [ 32.232189595893686, -27.362549669259845 ], [ 32.258573584256709, -27.198404034355956 ], [ 32.324533555164244, -26.951732107449367 ], [ 32.364109537708778, -26.881154867722589 ] ] ] } }
 ]
 }
