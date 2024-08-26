@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P6677",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "begin": 0, "end": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ 121.892436697979079, 41.192463509571326 ], [ 121.109200487000393, 41.155170311916741 ], [ 120.939277911119319, 41.443962696176776 ], [ 120.389035128433989, 41.561726433002633 ], [ 118.970434399715174, 42.260132389965001 ] ] } }
+]
+}
