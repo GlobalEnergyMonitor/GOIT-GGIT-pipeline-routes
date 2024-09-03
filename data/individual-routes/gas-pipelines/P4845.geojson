@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "Zhoushan LNG Underwater Transport Pipeline",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4845" }, "geometry": { "type": "LineString", "coordinates": [ [ 122.282508, 30.100617 ], [ 121.884377, 29.921361 ] ] } }
+{ "type": "Feature", "properties": { "id": 4845, "Type": "Gas pipeline", "Name": "Zhoushan LNG Underwater Transport Pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 121.880451327629189, 29.7949580041976 ], [ 122.175602845765525, 29.892288527000648 ], [ 122.330708831818811, 29.981591973516178 ] ] ] } }
 ]
 }
