@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "Hangzhou-Huzhou Gas Pipeline",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4848" }, "geometry": { "type": "LineString", "coordinates": [ [ 120.370857, 30.345977 ], [ 119.885114, 31.023414 ] ] } }
+{ "type": "Feature", "properties": { "id": 4848, "Type": "Pipeline", "Name": "Hangzhou-Huzhou Gas Pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 120.116061557191287, 30.339493391569938 ], [ 120.05185869492469, 30.463143348527851 ], [ 120.023324089472865, 30.746111519258456 ], [ 120.02570197326051, 30.788913427436196 ], [ 119.918697202816162, 30.981522014236017 ] ] ] } }
 ]
 }

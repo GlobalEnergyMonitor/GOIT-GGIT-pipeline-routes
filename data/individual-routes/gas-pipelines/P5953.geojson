@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "甬台温苍南支线",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5953" }, "geometry": { "type": "LineString", "coordinates": [ [ 120.709711, 27.79754 ], [ 120.557516, 27.557075 ] ] } }
+{ "type": "Feature", "properties": { "id": 5953, "Type": "Pipeline", "Name": "Ningbo-Taizhou-Wenzhou Gas Pipeline Cangnan Branch" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 120.988620228564201, 28.04396459691387 ], [ 120.84658843655329, 27.858885069169123 ], [ 120.725617127904997, 27.73791376052084 ], [ 120.589201400750596, 27.628115736225798 ], [ 120.50934829217239, 27.491700009071362 ] ] ] } }
 ]
 }
