@@ -1,7 +1,10 @@
 {
 "type": "FeatureCollection",
+"name": "P0472",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P0472" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.65, 5.05 ], [ -4.65, 5.179 ], [ -4.015, 5.262 ] ] } }
+{ "type": "Feature", "properties": { "id": 1, "Name": "Panthere-Abidjan Pipeline", "Type": "main" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -4.80805717808686, 5.042733554669212 ], [ -4.784301120149452, 5.17418739853334 ], [ -4.427960251088365, 5.218875519837624 ], [ -4.06370069604814, 5.263560457763126 ], [ -4.067763881344304, 5.323110491200395 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Foxtrox-Abidjan Pipeline", "Type": "Main" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -4.673439516441558, 5.037474842685146 ], [ -4.671211178142283, 5.183300859926271 ], [ -4.025914068814689, 5.264636243118925 ], [ -4.021467704159418, 5.316126860830263 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Mantra-Abidjan Pipeline", "Type": "Main" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -4.536182292803213, 4.958589082114167 ], [ -4.536182292803213, 4.97962621254589 ], [ -4.462274556997951, 4.974366992920452 ], [ -4.443797623046634, 5.021698451637344 ], [ -4.48761200059301, 5.200778773574912 ], [ -4.019839096028133, 5.261947639244624 ], [ -4.016464111146712, 5.315717501256328 ] ] ] } }
 ]
 }

@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "Kaiyuan–Mengzi Branch",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4503" }, "geometry": { "type": "LineString", "coordinates": [ [ 103.272688, 23.728627 ], [ 103.811686, 23.427942 ] ] } }
+{ "type": "Feature", "properties": { "id": 4503, "Type": "Gas pipeline", "Name": "Kaiyuan–Mengzi Branch" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 103.328921641648165, 23.557449592700099 ], [ 103.328921641648165, 23.557449592700099 ], [ 103.356690934772374, 23.423222339364198 ], [ 103.373852942450895, 23.395390748304109 ], [ 103.399118926379913, 23.349265314215479 ], [ 103.435196705153388, 23.311074608939357 ], [ 103.453222838680631, 23.29197451500438 ], [ 103.4663435444388, 23.182025670440986 ], [ 103.4663435444388, 23.182025670440986 ] ] ] } }
 ]
 }
