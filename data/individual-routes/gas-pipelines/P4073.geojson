@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
+"name": "P4073",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4073" }, "geometry": { "type": "LineString", "coordinates": [ [ 63.485626, 40.153802 ], [ 59.61663, 42.46189 ] ] } }
+{ "type": "Feature", "properties": { "ProjectID": "P4073" }, "geometry": { "type": "LineString", "coordinates": [ [ 63.506312345184547, 40.240476762638252 ], [ 62.019654709323589, 41.071491818160609 ], [ 62.002266900717032, 41.457054683434301 ], [ 60.845977628380723, 42.169813923883645 ], [ 59.733157877560828, 42.868259802308039 ], [ 59.35062608821648, 42.523216563938263 ] ] } },
+{ "type": "Feature", "properties": { "ProjectID": "P4073" }, "geometry": { "type": "LineString", "coordinates": [ [ 60.837283724077444, 42.156925490965257 ], [ 60.437364126126553, 41.600240887751255 ] ] } }
 ]
 }

@@ -1,9 +1,1 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[78.532539,39.768082],[78.454366,39.994895]]]},"properties":{"id":6603,"Type":"Gas pipeline","Name":"Bachu Branch"}}]}
