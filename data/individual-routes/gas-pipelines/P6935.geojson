@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P6935",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 65.883740156390132, 40.311661097604542 ], [ 65.439394651252059, 39.186440226841491 ] ] } }
+]
+}

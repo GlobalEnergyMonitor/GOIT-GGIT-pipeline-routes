@@ -1,9 +1,1 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[79.049717,39.877431],[78.816806,40.150269]]]},"properties":{"id":6604,"Type":"Gas pipeline","Name":"Tumxuk Branch"}}]}

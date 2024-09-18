@@ -1,9 +1,8 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
+"type": "FeatureCollection",
+"name": "P6247",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "begin": "0", "end": "1" }, "geometry": { "type": "LineString", "coordinates": [ [ 107.471538535826852, 38.164010841937262 ], [ 107.395590300383873, 38.075931065415645 ] ] } }
+]
 }

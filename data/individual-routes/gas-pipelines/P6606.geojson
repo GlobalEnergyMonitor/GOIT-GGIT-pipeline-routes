@@ -1,9 +1,1 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[80.348883,40.659073],[79.915221,40.839562]]]},"properties":{"id":6606,"Type":"Gas pipeline","Name":"Awat Branch"}}]}

@@ -1,9 +1,1 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[79.058307,40.499748],[79.214215,40.454908]]]},"properties":{"id":6602,"Type":"Gas pipeline","Name":"Keping Branch"}}]}
