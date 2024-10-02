@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "6873",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 6873, "Type": "Gas pipeline", "Name": "Meitan-Sinan Branch Pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.396965561397849, 27.738064099487239 ], [ 107.70349323362197, 27.956896204244476 ], [ 108.097931340554879, 28.243549008683466 ], [ 108.20869690942412, 27.960735507474059 ], [ 108.208719884908874, 27.960709998797437 ] ] ] } }
+]
+}

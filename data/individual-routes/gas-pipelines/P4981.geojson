@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4981" }, "geometry": null }
-]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[109.148662,26.242759],[109.259207,26.478648],[109.393575,26.820274]]]},"properties":{"id":4981,"Type":"Gas pipeline","Name":"Tianzhu-Congjiang Gas Pipeline(Tianzhu-Liping Segment)"}}]}

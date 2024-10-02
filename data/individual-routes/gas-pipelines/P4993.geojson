@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "4993",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4993" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 4993, "Type": "gas pipeline", "Name": "榕江-雷山输气管道" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 108.55289, 26.010893 ], [ 108.084173595203737, 26.367226946824236 ] ] ] } }
 ]
 }

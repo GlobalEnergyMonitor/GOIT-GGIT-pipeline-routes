@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "4977",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4977" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 4977, "Type": "Gas pipeline", "Name": "Meitan-Suiyang-Zheng'an Gas Pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.449422474620619, 27.739335524526933 ], [ 107.44862371350716, 27.73767305942069 ], [ 107.186085905357771, 27.943692273569173 ], [ 107.432757159612876, 28.550456224732518 ] ] ] } }
 ]
 }

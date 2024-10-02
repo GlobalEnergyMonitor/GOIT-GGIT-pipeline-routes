@@ -1,9 +1,8 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
+"type": "FeatureCollection",
+"name": "6585",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 6585, "Type": "Gas pipeline", "Name": "Fuling-Changjiang West Valve Chamber Gas Pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.103652931967446, 29.686652551523839 ], [ 107.142428057273037, 29.706970351829529 ] ] ] } }
+]
 }

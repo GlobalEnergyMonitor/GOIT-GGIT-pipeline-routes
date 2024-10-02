@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "4983",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4983" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 4983, "Type": "Gas pipeline", "Name": "Qian Xinan Gas Pipeline Network Phase 2" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 104.94431932401821, 25.101143688240075 ], [ 105.180105719267985, 25.427632526447098 ], [ 105.182171364131719, 25.427435617632185 ], [ 105.635046659865992, 25.388906110585292 ], [ 105.180607070869456, 25.427502726439709 ], [ 104.961708377044246, 25.783356240595197 ] ] ] } }
 ]
 }

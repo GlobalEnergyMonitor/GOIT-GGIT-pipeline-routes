@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "4991",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4991" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 4991, "Type": "gas pipeline", "Name": "望谟-罗甸输气管道" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 106.099773998352077, 25.16620385564924 ], [ 106.742747158743654, 25.425155509074219 ] ] ] } }
 ]
 }

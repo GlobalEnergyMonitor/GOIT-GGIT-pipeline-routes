@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "P6821",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.761832489379, 52.3198420164575 ], [ 12.9135409177317, 52.225453945677401 ], [ 12.816631910844199, 52.216972822665802 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Name": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.7593428741461, 52.320331895289002 ], [ 14.0689701860785, 52.311733086877702 ], [ 14.144996539053, 52.3159233276346 ], [ 14.3185711598342, 52.2649668895316 ], [ 14.386754624795399, 52.197209119929902 ], [ 14.607072686127101, 52.179155020529699 ] ] ] } }
+]
+}
