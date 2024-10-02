@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "4984",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4984" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 4984, "Type": "Gas pipeline", "Name": "阿拉-万山输气管道" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 109.215905584520002, 27.514310803410506 ], [ 109.19252324234435, 27.704960228078921 ], [ 109.383400511335793, 27.904124780032966 ] ] ] } }
 ]
 }

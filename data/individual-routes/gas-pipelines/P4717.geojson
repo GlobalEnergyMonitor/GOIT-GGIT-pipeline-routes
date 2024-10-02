@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "4717",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4717" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 4717, "Type": "Gas pipeline", "Name": "Guigang-Yulin Branch" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 109.801254224209302, 23.445591334016136 ], [ 110.075686309714825, 22.792004282804008 ] ] ] } }
 ]
 }

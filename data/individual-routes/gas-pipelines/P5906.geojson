@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "5906",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5906" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 5906, "Type": "Gas pipeline", "Name": " 江苏配套管线工程金武管道工程（高塍-雪堰段）" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 119.805761144053278, 31.456645316387132 ], [ 120.041892621155526, 31.544283756726454 ], [ 120.041851417987075, 31.544283756726454 ] ] ] } }
 ]
 }

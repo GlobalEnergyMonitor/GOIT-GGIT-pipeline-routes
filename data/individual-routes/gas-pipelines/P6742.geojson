@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P6742",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 7.01959742567576, 53.442220573888498 ], [ 7.26800393295446, 53.346945887646598 ], [ 7.41996974756114, 53.313378753772199 ], [ 7.46974854515096, 53.256969384402602 ] ] ] } }
+]
+}

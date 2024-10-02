@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4988" }, "geometry": null }
-]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[105.744608,26.054196],[106.076235,25.755762]]]},"properties":{"id":4988,"Type":"Gas pipeline","Name":"镇宁-紫云输气管道"}}]}

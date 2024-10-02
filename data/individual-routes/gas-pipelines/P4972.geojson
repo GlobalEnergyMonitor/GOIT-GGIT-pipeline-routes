@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "4972",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4972" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 4972, "Type": "Gas pipeline", "Name": "Zheng'an-Weng'an-Fuquan-#45 valve chamber pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.432757159612876, 28.550456224732518 ], [ 107.4621387853702, 27.077492307396167 ], [ 107.504583138690066, 26.692570520394934 ], [ 107.951135021922255, 25.598508161680432 ] ] ] } }
 ]
 }

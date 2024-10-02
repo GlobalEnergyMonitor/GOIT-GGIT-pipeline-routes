@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "6676",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 6676, "Type": "Gas pipeline", "Name": "Changling-Baicheng-Ulanhot branch " }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 123.976420029638362, 44.27507544668503 ], [ 122.789801521295146, 45.60699099292799 ], [ 122.054052353692057, 46.055223312718113 ] ] ] } }
+]
+}
