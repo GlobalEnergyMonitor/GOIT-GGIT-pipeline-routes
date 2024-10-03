@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nigeria-libya-pipeline",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "name": "nigeria-libya-pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 5.713047, 5.574694 ], [ 8.534712, 11.989088 ], [ 13.003332576326578, 22.529045136122036 ], [ 12.113564, 32.9141632 ] ] ] } }
+]
+}

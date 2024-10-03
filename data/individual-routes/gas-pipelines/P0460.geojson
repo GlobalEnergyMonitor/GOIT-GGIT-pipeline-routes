@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "updated-trans-sahara-pipeline",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P0460" }, "geometry": { "type": "LineString", "coordinates": [ [ 3.2531964, 32.9366843 ], [ 8.541634, 11.992435 ] ] } }
+{ "type": "Feature", "properties": { "id": null, "name": "tsp" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 3.2516, 32.9361 ], [ 5.50945382165583, 26.627535627523024 ], [ 5.457818272694564, 24.920485954200696 ], [ 8.541634, 11.992435 ] ] ] } }
 ]
 }
