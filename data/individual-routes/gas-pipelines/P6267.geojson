@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "P6267",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1, "Name": "Porto Marghera-Mantova" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 12.250517, 45.445659 ], [ 11.691464853389691, 45.238248854644965 ], [ 10.8217, 45.14839 ] ] ] } }
-]
-}
