@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P6760",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 28.327864809403, 44.668702684720799 ], [ 28.3692121799386, 44.660437875534903 ], [ 28.5736222580306, 44.609050988940503 ], [ 28.613962569945699, 44.596780236898503 ], [ 28.7337059577705, 44.556038557371899 ], [ 28.870407249816498, 44.508318384073497 ] ] ] } }
+]
+}

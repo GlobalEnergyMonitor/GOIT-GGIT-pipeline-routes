@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P6739",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 8.032003134657071, 53.647600794747397 ], [ 8.035458304073099, 53.579553604247202 ], [ 7.98948336685835, 53.508061472414099 ], [ 7.97533730233021, 53.492087305114197 ], [ 7.867533804358, 53.4454077567787 ], [ 7.46013642428716, 53.2655027964204 ] ] ] } }
+]
+}
