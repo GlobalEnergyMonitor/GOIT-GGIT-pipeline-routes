@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P0847",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P0847" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.080582, 24.29438 ], [ 88.62296, 24.364104 ] ] } }
+{ "type": "Feature", "properties": { "id": null, "Name": null, "Type": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 89.128332397783851, 24.313885252704445 ], [ 89.053801878943872, 24.322705021358683 ], [ 88.961023542227565, 24.33115907377816 ], [ 88.835772787660588, 24.360743814755285 ], [ 88.67341069840711, 24.39877117670569 ] ] ] } }
 ]
 }

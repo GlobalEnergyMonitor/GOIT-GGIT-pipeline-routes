@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P6771",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 15.4034345029156, 46.800283538959199 ], [ 15.480283800236, 46.7771312469729 ], [ 15.5550516594885, 46.769815911301102 ], [ 15.647808778110001, 46.755567405906099 ], [ 15.699527898795999, 46.733994932390097 ], [ 15.7400410051834, 46.7001525298028 ] ] ] } }
+]
+}

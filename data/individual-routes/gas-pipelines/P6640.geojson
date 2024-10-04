@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P6640",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "Name": "AtlantHYC 3 (offshore)" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -2.25857458121962, 47.282399859640698 ], [ -3.14551451596434, 47.014805716910303 ] ] ] } }
+]
+}
