@@ -1,1 +1,17 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"coordinates":[51.660998237217,32.66927546206158],"type":"Point"}},{"type":"Feature","properties":{},"geometry":{"coordinates":[[50.147169785808074,40.026234228402274],[50.086226790491565,40.37192513262394],[50.01004804634536,40.412197747735405]],"type":"LineString"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [50.147169785808074, 40.026234228402274],
+          [50.086226790491565, 40.37192513262394],
+          [50.01004804634536, 40.412197747735405]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
