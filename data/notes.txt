@@ -1,0 +1,3 @@
+to search regex style for LineStringZ:
+
+\[[-0-9. ]+,[-0-9. ]+,[-0-9. ]+\]
