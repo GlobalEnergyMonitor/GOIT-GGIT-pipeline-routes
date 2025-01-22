@@ -1,9 +1,8 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
+"type": "FeatureCollection",
+"name": "P7222",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 151.21025746930323, -34.010063930819207 ], [ 151.236321689063629, -33.734371329675504 ], [ 151.414427190759454, -33.323364279349441 ], [ 151.719595763787112, -32.923172907774372 ] ] ] } }
+]
 }
