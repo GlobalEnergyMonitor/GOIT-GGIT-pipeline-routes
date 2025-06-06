@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P3613",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P3613" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 1, "Name": "GroundbirchMainlineLoopSaturn", "Type": "Expansion" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -121.105590984383014, 55.9706190792323 ], [ -121.005830616985989, 55.927407445119584 ], [ -120.988055210488014, 55.881086145010791 ], [ -120.930608602041971, 55.847107119810687 ], [ -120.929170658930232, 55.836419772613937 ], [ -120.897542942811043, 55.835550353971094 ], [ -120.893119486011116, 55.826606633924072 ], [ -120.877222688136584, 55.826839569383175 ], [ -120.875287425786638, 55.823003721195484 ] ] ] } }
 ]
 }

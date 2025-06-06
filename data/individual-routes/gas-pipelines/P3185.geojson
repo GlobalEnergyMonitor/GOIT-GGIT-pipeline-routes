@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P3185fr",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P3185" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 1, "Name": "ThreeRiversInterconnection", "Type": "Expansion" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -88.293882708939904, 41.411212635782348 ], [ -88.293905745892786, 41.410756292937606 ], [ -88.294507083945703, 41.410327030584206 ], [ -88.294405653430758, 41.402502004565861 ], [ -88.293941971076691, 41.393697723873387 ], [ -88.289004478509511, 41.388770610603622 ], [ -88.288975498362376, 41.388449914060821 ], [ -88.280607480878771, 41.383786046584689 ], [ -88.279846752016653, 41.375071654250952 ] ] ] } }
 ]
 }

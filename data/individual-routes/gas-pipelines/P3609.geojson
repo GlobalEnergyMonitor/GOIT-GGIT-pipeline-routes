@@ -1,7 +1,10 @@
 {
 "type": "FeatureCollection",
+"name": "P3609",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P3609" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 1, "Name": "WestPathDelivery2023TurnerValley", "Type": "Expansion" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -114.383104290318556, 50.892227454633016 ], [ -114.366735159996992, 50.867021951830402 ], [ -114.357349188208985, 50.767788151364392 ], [ -114.327515014728988, 50.6924969492378 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "WestPathDelivery2023Longview", "Type": "Expansion" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -114.276882578085619, 50.52480785356201 ], [ -114.252377318579335, 50.457168099589353 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "WestPathDelivery2023Lundbreck", "Type": "Expansion" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -114.30507954110098, 49.635893002638895 ], [ -114.347937189532985, 49.615399373195103 ], [ -114.401116053475477, 49.607082801337377 ] ] ] } }
 ]
 }
