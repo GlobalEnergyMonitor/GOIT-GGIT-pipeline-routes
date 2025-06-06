@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P3611",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P3611" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 1, "Name": "FoothillsZone8WPD2023", "Type": "Expansion" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -114.785569742595669, 49.617449297585274 ], [ -114.794534014991982, 49.570509808113094 ], [ -114.814354399403015, 49.514531951544399 ], [ -114.773876006374962, 49.449315620439599 ], [ -114.840456834649004, 49.419469061857683 ], [ -114.875029779356012, 49.338583724316386 ] ] ] } }
 ]
 }
