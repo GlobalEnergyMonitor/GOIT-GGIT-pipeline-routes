@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5578" }, "geometry": { "type": "LineString", "coordinates": [ [ 110.992705, 37.950585 ], [ 111.062637, 38.473378 ], [ 111.108581, 38.314696 ], [ 111.104072, 38.234232 ], [ 111.08748, 39.019259 ] ] } }
-]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"输气管道路径"},"geometry":{"type":"LineString","coordinates":[[111.084624,38.868005],[110.980804,37.952117]]}}]}

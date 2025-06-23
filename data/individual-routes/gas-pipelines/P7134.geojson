@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "P7134",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "NewTowns", "Type": "lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8.810901180312275, 53.290861352518363 ], [ -8.983471571062031, 53.287113168302469 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "NewTowns", "Type": "lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -9.007729314399706, 53.498438323941407 ], [ -8.887598741666595, 53.514545932236835 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "NewTowns", "Type": "lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -9.007729314399706, 53.498438323941407 ], [ -9.093225729410202, 53.468404015149844 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "NewTowns", "Type": "Lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -9.075507597487665, 53.678997640871131 ], [ -9.205224193777395, 53.62777083229777 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "NewTowns", "Type": "Lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -9.075507597487665, 53.678997640871131 ], [ -8.994542278110643, 53.712237243655963 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "NewTowns", "Type": "Lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -9.224077594016469, 53.878289062685162 ], [ -9.277903633261278, 53.861032375279862 ], [ -9.494062649261132, 53.803464543285266 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "Name": "NewTowns", "Type": "Lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -9.412513282346294, 54.076028214690929 ], [ -9.316669459355719, 54.092178684591559 ], [ -9.168506670199355, 54.108532156202571 ] ] ] } }
+]
+}

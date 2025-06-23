@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P7138",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "Name": "BallymahonSec1", "Type": "Lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -7.790527519901899, 53.539857221405128 ], [ -7.762270543825798, 53.560801003028573 ], [ -7.706916615211322, 53.5477726341162 ], [ -7.702205717201144, 53.548836156533902 ] ] ] } }
+]
+}
