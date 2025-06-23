@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P7127",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "NenaghExtension", "Types": "lateral" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8.624026083629795, 52.644683780059815 ], [ -8.507539068352399, 52.69482386598694 ], [ -8.452806414040957, 52.745078370574454 ], [ -8.222171708971519, 52.855756551313526 ] ] ] } }
+]
+}
