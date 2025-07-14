@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P2009",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P2009" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.277067, 39.72261 ], [ -78.266398, 39.659034 ], [ -78.225976, 39.625399 ] ] } }
+{ "type": "Feature", "properties": { "PrjName": "Eastern Panhandle Expansion Project", "OGW_ID": "3288", "Res": "Medium", "DataSrce": "FERC Environmental Assessment", "SrceDate": 2018, "SrceLink": "https://elibrary.ferc.gov/eLibrary/filelist?accession_number=20180126-3000&optimized=false", "DigName": "LM", "Method": "Georeferenced", "DigDate": "2022-09-13", "Notes": null, "Shape_Leng": 7071.0456251599999, "Additional": 46.6, "AffectedSt": "MD, PA, WV", "Miles": 3.4, "PipelineDi": "8", "ProductTyp": "Natural Gas", "ProductUni": "MMscf/d", "ProjectTyp": "Lateral", "Mile_check": 3 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.206406355804575, 39.723111330140171, 0.0 ], [ -78.206799509776872, 39.720645634206768, 0.0 ], [ -78.207888244545032, 39.717830910594785, 0.0 ], [ -78.208614067124927, 39.713620242186558, 0.0 ], [ -78.208886251266108, 39.709037067884402, 0.0 ], [ -78.208916493948479, 39.707222326064112, 0.0 ], [ -78.210307654641866, 39.703569431725519, 0.0 ], [ -78.210277411959524, 39.700730742833407, 0.0 ], [ -78.207706788450906, 39.698566746276413, 0.0 ], [ -78.208099942423203, 39.69582093212567, 0.0 ], [ -78.207797516497976, 39.694820311987961, 0.0 ], [ -78.20389621766067, 39.687838835610719, 0.0 ], [ -78.199238852662816, 39.683416868455396, 0.0 ], [ -78.194248819057364, 39.678622205900318, 0.0 ] ] ] } }
 ]
 }
