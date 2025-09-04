@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5854" }, "geometry": { "type": "LineString", "coordinates": [ [ 47.901715, 28.617611 ], [ 47.742616, 29.01637 ] ] } }
-]
-}
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[47.9298704,28.6394644],[47.8236715,28.7204817],[47.7454352,28.8191226],[47.6854182,28.9251747],[47.6564983,29.0108328]]},"properties":{"id":"1","Name":"Wafra-Station 171 Gas Pipeline"}}
