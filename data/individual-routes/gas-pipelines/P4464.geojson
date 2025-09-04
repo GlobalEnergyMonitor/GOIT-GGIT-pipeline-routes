@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "es-it-offshore-Interconnector-2022-P4464",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P4464" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 2.172825, 41.394353 ], [ 3.683516802576082, 41.249893580681785 ], [ 4.128665744953806, 41.381624768021993 ], [ 4.77690784866971, 41.703525477729691 ], [ 5.561740201406982, 42.021307675677846 ], [ 6.095515029443733, 42.185060963742984 ], [ 9.643870848661656, 43.345581576114284 ], [ 10.287067, 43.584404 ] ] ] } }
 ]
 }
