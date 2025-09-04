@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "4979",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 4979, "Type": "Gas pipeline", "Name": "Yuping-Jiangkou Gas Pipeline" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 108.825074424004669, 27.703252999039663 ], [ 108.907494123059266, 27.233639724039538 ] ] ] } }
-]
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        108.95,
+        27.28
+      ],
+      [
+        109.09,
+        27.55
+      ],
+      [
+        108.77,
+        27.67
+      ],
+      [
+        108.45,
+        27.62
+      ],
+      [
+        108.33,
+        27.97
+      ],
+      [
+        108.24,
+        28.13
+      ],
+      [
+        108.44,
+        28.44
+      ]
+    ]
+  },
+  "properties": {
+    "name": "管道线路"
+  }
 }
