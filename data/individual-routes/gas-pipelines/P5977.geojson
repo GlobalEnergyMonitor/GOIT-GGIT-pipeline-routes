@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P5977",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5977" }, "geometry": null }
+{ "type": "Feature", "properties": { "id": 1, "Name": "Sturt Plateau Pipeline" }, "geometry": { "type": "LineString", "coordinates": [ [ 133.324729, -16.74822 ], [ 133.419076394491583, -16.712190331395906 ], [ 133.500289506937435, -16.762513721803462 ], [ 133.812004541472135, -16.817396785190081 ] ] } }
 ]
 }

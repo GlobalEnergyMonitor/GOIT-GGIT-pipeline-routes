@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "egen-clauen-P7591",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 9.993013692445864, 52.100999486688515 ], [ 10.025058488221312, 52.245397507714195 ] ] ] } }
+]
+}

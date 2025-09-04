@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P7555-compressor-stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -74.010859060172734, 4.948029457672105 ] ] } }
+]
+}

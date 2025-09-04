@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5820" }, "geometry": null }
-]
-}
+{"type":"Feature","properties":{"id":1,"Name":"COMP1-NFPS Gas Pipeline 1-Offshore"},"geometry":{"type":"LineString","coordinates":[[51.5588155,25.9249498],[51.6341424,26.1065422],[51.7991917,26.2474378],[52.004497,26.3773439],[52.3666716,26.4521805],[52.3666716,26.4521805]]}}
