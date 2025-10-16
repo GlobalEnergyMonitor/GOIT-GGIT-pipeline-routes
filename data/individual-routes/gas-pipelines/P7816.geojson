@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P7816",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -56.656018004207013, 5.96263761098835 ], [ -57.505114466231113, 6.798401971393608 ], [ -58.676693039051464, 8.000729663252223 ], [ -60.556667958228317, 9.790719060418633 ], [ -61.070847239882923, 10.148880089382224 ] ] ] } }
+]
+}

@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5925" }, "geometry": { "type": "LineString", "coordinates": [ [ 57.522911, 22.38527 ], [ 56.74513, 21.324788 ] ] } }
-]
-}
+{"type":"Feature","properties":{"id":1,"Name":"Saih Nihayda-Saih Rawl Gas Pipeline"},"geometry":{"type":"LineString","coordinates":[[56.9796587,21.4349398],[56.9733698,21.4336474],[56.9676527,21.4344836],[56.9620724,21.4332221],[56.8386157,21.3865547],[56.7958919,21.369943],[56.7782914,21.3631938],[56.7585262,21.3564444],[56.7532548,21.3540577],[56.7441513,21.3505512],[56.7442593,21.3531648],[56.7358405,21.351858],[56.7332502,21.3571857],[56.718784,21.3697414]]}}
