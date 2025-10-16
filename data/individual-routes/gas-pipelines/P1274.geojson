@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P1274" }, "geometry": { "type": "LineString", "coordinates": [ [ -98.474429, 26.011869 ], [ -98.1694606, 24.8443455 ] ] } }
-]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"OBJECTID":1196,"nombre_gasoducto":"REYNOSA - SAN FERNANDO","longitud_km":0,"pais":"MÉXICO","diametro":null,"operador":"","anio_operacion":2003,"tramo":"REYNOSA - SAN FERNANDO","Shape__Length":1.0807105135593278},"geometry":{"coordinates":[[-98.474429,26.011869],[-98.46844615483536,26.000332140607078],[-98.45818922165573,25.98774603808036],[-98.44661722063178,25.977867148781634],[-98.43422442535595,25.96978218447816],[-98.42183163008012,25.961697220174685],[-98.40839203189778,25.95275225722174],[-98.39378707679926,25.94345825706769],[-98.37881121762821,25.936033278903203],[-98.3521703533061,25.923011794702973],[-98.31354145736213,25.91504380989207],[-98.27502991399996,25.91533780900005],[-98.190604,25.131756]],"type":"LineString"}}]}

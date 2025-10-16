@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "GRE-MCDSide-P3916",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P3916" }, "geometry": { "type": "LineString", "coordinates": [ [ 22.498669776846285, 41.14507728226009 ], [ 22.092727798245541, 41.48237767886512 ] ] } }
+{ "type": "Feature", "properties": { }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 22.091269, 41.490872 ], [ 22.502259211182807, 41.141599423879036 ], [ 22.522119125766086, 41.128205417904312 ] ] ] } }
 ]
 }
