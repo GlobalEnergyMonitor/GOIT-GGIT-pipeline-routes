@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P4459",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PrjName": "Lake City 1st Branch Line Abandonment and Capacity Replacement Project", "OGW_ID": "3309", "Res": "Low", "DataSrce": "FERC Environmental Assessment", "SrceDate": 2021, "SrceLink": "https://elibrary.ferc.gov/eLibrary/filelist?accession_number=20210216-5221&optimized=false", "DigName": "LM", "Method": "Georeferenced", "DigDate": "2022-05-04", "Notes": null, "Shape_Leng": 19908.120780699999, "Additional": 0.0, "AffectedSt": "IA", "Miles": 9.2, "PipelineDi": "6", "ProductTyp": "Natural Gas", "ProductUni": "MMscf/d", "ProjectTyp": "Upgrade", "Mile_check": 9 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -94.708314663230993, 42.268195501268011 ], [ -94.683199755858737, 42.276235370314183 ], [ -94.66075664744892, 42.278607595423189 ], [ -94.629585663147125, 42.278871170183095 ], [ -94.625845145677715, 42.280716163962182 ], [ -94.603045796867235, 42.281375077409777 ], [ -94.598827917350761, 42.282940627769086 ], [ -94.555167165173714, 42.283784005917951 ], [ -94.552203250250571, 42.28471170910808 ], [ -94.533507784747002, 42.285133387739656 ] ] ] } }
+]
+}
