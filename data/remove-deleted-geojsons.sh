@@ -13,7 +13,7 @@ PROJECT_IDS=(
     P2820 P2821 P2822 P2844 P2845 P2851 P2863 P2915 P2928 P2932
     P2947 P2952 P2967 P2982 P3025 P3026 P3027 P3051 P3052 P3060
     P4082 P4125 P4160 P4168 P4169 P4187 P4189 P4190 P4191 P4192
-    P2929 P2930 P2931 P3080 P4168 P2875 P4160 P2875 P3629 P2786
+    P2929 P2930 P2931 P3080 P2875 P3629 P2786
     P2881 P4123 P4127 P2785 P2867 P2869 P2937 P2938 P2964 P3083
     P4113 P4114 P4115 P4116 P4117 P1204 P6882 P6883 P3281 P5492
     P0718 P7475 P0521 P2751 P6745 P7058 P7059 P5550 P5552 P6609
@@ -155,10 +155,8 @@ fi
 # 🧮 Total files deleted: 98
 
 # ⚠️ These files were NOT found:
-# P4168.geojson
-# P4160.geojson
-# P2875.geojson
-# P7475.geojson
-# P7446.geojson
-# P1226.geojson
-# P7721.geojson
+
+# P7475.geojson - never created route in first place
+# P7446.geojson - never created route in first place
+# P1226.geojson - Gregor tried deleting
+# P7721.geojson - never created route in first place
