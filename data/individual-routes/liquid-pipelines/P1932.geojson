@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P1932" }, "geometry": { "type": "LineString", "coordinates": [ [ -71.6347, 10.450556 ], [ -71.53781, 10.761453 ] ] } }
-]
-}
+{"type": "FeatureCollection", "name": "P1932", "features": [{"type": "Feature", "properties": {"NAME": "Punta de Palma-Puerto Miranda Oil Pipeline", "ID": "P1932", "LENGTH": 37.631, "name": "Punta de Palma-Puerto Miranda Oil Pipeline", "id": "P1932"}, "geometry": {"coordinates": [[-71.55095587986678, 10.76709848367917], [-71.55102480798878, 10.763690161808587], [-71.55637822546456, 10.754751598218917], [-71.58977748060197, 10.726597443242325], [-71.61400756960144, 10.669780662609377], [-71.63933902628273, 10.52038320327762], [-71.63511711683587, 10.450650315554443]], "type": "LineString"}}]}
