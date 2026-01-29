@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "p5326-Ros-scwe-trace",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P5327" }, "geometry": { "type": "LineString", "coordinates": [ [ 14.23177611588665, 53.093838923371528 ], [ 11.986043870239884, 51.282870595742281 ] ] } }
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.2029795, 53.071571099999986 ], [ 13.42881536164785, 52.419801186350696 ], [ 13.364752828304784, 52.179848173990031 ], [ 12.796197844885095, 51.908962585851924 ], [ 12.523932078177074, 51.874368400642943 ], [ 11.986044, 51.282871 ] ] ] } }
 ]
 }
