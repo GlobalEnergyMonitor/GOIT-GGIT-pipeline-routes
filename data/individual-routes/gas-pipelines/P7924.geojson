@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":17,"Name":"Loran-Manatee-Beachfield","Type":"Gas Pipeline"},"geometry":{"type":"MultiLineString","coordinates":[[[-61.068228,10.139876],[-60.1511,9.9694]]]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1},"geometry":{"coordinates":[[[-61.068228,10.139876],[-60.153598,9.912916]]],"type":"MultiLineString"}}]}
