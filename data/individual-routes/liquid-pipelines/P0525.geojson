@@ -1,7 +1,184 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P0525" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.9799, 31.8835 ], [ 5.40527343, 33.7974087 ], [ 5.64697265, 34.9579953 ], [ 5.40527343, 35.1378791 ], [ 6.89666748, 36.8686348 ] ] } }
-]
+  "type": "FeatureCollection", 
+  "name": "P0525", 
+  "crs": {
+    "type": "name", 
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }, 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "fid": 156.0, 
+        "ProjectID": "P0525", 
+        "Fuel": "Oil", 
+        "StartPrefe": null, 
+        "EndState/P": null, 
+        "CountriesO": "Algeria", 
+        "Wiki": "https://www.gem.wiki/Haoudh_El_Hamra-Skikda_Oil_Pipeline", 
+        "PipelineNa": "Haoudh El Hamra-Skikda Oil Pipeline", 
+        "SegmentNam": null, 
+        "Status": "operating", 
+        "Owner": "Sonatrach [100.00%]", 
+        "Parent": "Sonatrach SpA [100.00%]", 
+        "OwnerEntit": "E100000000003", 
+        "ProposalYe": null, 
+        "Constructi": null, 
+        "Diameter": "34", 
+        "DiameterUn": "in", 
+        "StartYear1": "1972", 
+        "StartYear2": null, 
+        "StartYear3": null, 
+        "CancelledY": null, 
+        "DelayType": null, 
+        "StopYear": null, 
+        "ShelvedYea": null, 
+        "Capacity": "30.0", 
+        "CapacityUn": "mtpa", 
+        "CapacityBO": "602465.75", 
+        "LengthKnow": "646.0", 
+        "LengthKn_1": "km", 
+        "LengthKn_2": "646.0", 
+        "LengthEsti": "613.78", 
+        "LengthMerg": "646.0", 
+        "Diameter [": null, 
+        "FuelSource": null, 
+        "FuelSour_1": null, 
+        "StartLocat": "Haoudh El Hamra", 
+        "StartCount": "Algeria", 
+        "StartSubRe": "Northern Africa", 
+        "StartRegio": "Africa", 
+        "EndLocatio": "Skikda", 
+        "EndPrefect": null, 
+        "EndCountry": "Algeria", 
+        "CostUSD": "--", 
+        "EndRegion": "Africa", 
+        "CostEuro": "--", 
+        "OtherLangu": null, 
+        "EndSubRegi": "Northern Africa", 
+        "RouteType": "Mapped route (at any accuracy)", 
+        "RouteAccur": "medium", 
+        "Cost": null, 
+        "CostUnits": null, 
+        "LastUpdate": "2025-01-27"
+      }, 
+      "geometry": {
+        "type": "MultiLineString", 
+        "coordinates": [
+          [
+            [
+              6.029570740458641, 
+              31.70576050430169
+            ], 
+            [
+              6.001889998263226, 
+              31.930709207199087
+            ], 
+            [
+              5.920337336213737, 
+              32.71626894203388
+            ], 
+            [
+              5.903022044901956, 
+              32.76967021606124
+            ], 
+            [
+              5.86862220959868, 
+              33.00129945588976
+            ], 
+            [
+              5.822217352113643, 
+              33.29950546119502
+            ], 
+            [
+              5.729869131784142, 
+              33.60289411948941
+            ], 
+            [
+              5.662926274920794, 
+              33.830733108647685
+            ], 
+            [
+              5.631057890674924, 
+              33.96779927827262
+            ], 
+            [
+              5.600004446945779, 
+              34.18738007827455
+            ], 
+            [
+              5.574031509978107, 
+              34.52568225299838
+            ], 
+            [
+              5.567321122183184, 
+              34.67840817968217
+            ], 
+            [
+              5.536515045469246, 
+              34.819981896682485
+            ], 
+            [
+              5.498998580960386, 
+              34.90286092554427
+            ], 
+            [
+              5.435509179483855, 
+              35.02584116411218
+            ], 
+            [
+              5.239269211283663, 
+              35.13683744699917
+            ], 
+            [
+              5.328731549727867, 
+              35.252396065257905
+            ], 
+            [
+              5.533629163583948, 
+              35.46421787983973
+            ], 
+            [
+              5.827989115884231, 
+              35.69423549249629
+            ], 
+            [
+              6.209034495861378, 
+              35.98303420450354
+            ], 
+            [
+              6.396507847287723, 
+              36.124316955386846
+            ], 
+            [
+              6.523486650240788, 
+              36.333830141152404
+            ], 
+            [
+              6.581204287946726, 
+              36.42908879967016
+            ], 
+            [
+              6.641807807537961, 
+              36.49407641215669
+            ], 
+            [
+              6.797645429343994, 
+              36.63315205842996
+            ], 
+            [
+              6.814960720655775, 
+              36.716477199991985
+            ], 
+            [
+              6.907308940985276, 
+              36.86438781977662
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }

@@ -1,9 +1,172 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
+  "type": "FeatureCollection", 
+  "name": "P7298", 
+  "crs": {
+    "type": "name", 
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }, 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "fid": null, 
+        "ProjectID": "P7298", 
+        "Fuel": null, 
+        "StartPrefe": null, 
+        "EndState/P": null, 
+        "CountriesO": null, 
+        "Wiki": null, 
+        "PipelineNa": "Hassi R'Mel-Arzew LPG Pipeline II", 
+        "SegmentNam": null, 
+        "Status": null, 
+        "Owner": null, 
+        "Parent": null, 
+        "OwnerEntit": null, 
+        "ProposalYe": null, 
+        "Constructi": null, 
+        "Diameter": null, 
+        "DiameterUn": null, 
+        "StartYear1": null, 
+        "StartYear2": null, 
+        "StartYear3": null, 
+        "CancelledY": null, 
+        "DelayType": null, 
+        "StopYear": null, 
+        "ShelvedYea": null, 
+        "Capacity": null, 
+        "CapacityUn": null, 
+        "CapacityBO": null, 
+        "LengthKnow": null, 
+        "LengthKn_1": null, 
+        "LengthKn_2": null, 
+        "LengthEsti": null, 
+        "LengthMerg": null, 
+        "Diameter [": null, 
+        "FuelSource": null, 
+        "FuelSour_1": null, 
+        "StartLocat": null, 
+        "StartCount": null, 
+        "StartSubRe": null, 
+        "StartRegio": null, 
+        "EndLocatio": null, 
+        "EndPrefect": null, 
+        "EndCountry": null, 
+        "CostUSD": null, 
+        "EndRegion": null, 
+        "CostEuro": null, 
+        "OtherLangu": null, 
+        "EndSubRegi": null, 
+        "RouteType": null, 
+        "RouteAccur": null, 
+        "Cost": null, 
+        "CostUnits": null, 
+        "LastUpdate": null
+      }, 
+      "geometry": {
+        "type": "MultiLineString", 
+        "coordinates": [
+          [
+            [
+              -0.31540604526364, 
+              35.748766732075744
+            ], 
+            [
+              -0.25917861729198, 
+              35.68536174702182
+            ], 
+            [
+              -0.227941157307724, 
+              35.62444551448138
+            ], 
+            [
+              -0.143600015350234, 
+              35.57618722341904
+            ], 
+            [
+              -0.028021413408488, 
+              35.560941718269056
+            ], 
+            [
+              0.040700998556875, 
+              35.58380888810287
+            ], 
+            [
+              0.106299664523812, 
+              35.57364650734724
+            ], 
+            [
+              0.215630774468707, 
+              35.59396997934992
+            ], 
+            [
+              0.568614072290797, 
+              35.47195181124908
+            ], 
+            [
+              0.943463592101865, 
+              35.28347725110532
+            ], 
+            [
+              1.115269622015272, 
+              35.08945107574308
+            ], 
+            [
+              1.474500411834212, 
+              34.78984883024271
+            ], 
+            [
+              1.880587391629537, 
+              34.53805906057729
+            ], 
+            [
+              2.194523864471307, 
+              34.26485515086547
+            ], 
+            [
+              2.770855001180825, 
+              33.471189034984064
+            ], 
+            [
+              3.13789515599583, 
+              32.94848330154335
+            ], 
+            [
+              3.30032994791396, 
+              32.76217368103126
+            ], 
+            [
+              3.62519953175022, 
+              32.6044243079119
+            ], 
+            [
+              4.151550732484927, 
+              32.34880782503498
+            ], 
+            [
+              4.310861778404633, 
+              32.22733425215069
+            ], 
+            [
+              4.926239740094471, 
+              32.01568884331946
+            ], 
+            [
+              5.338574211886645, 
+              31.795588899901738
+            ], 
+            [
+              5.875858523615845, 
+              31.76637955474351
+            ], 
+            [
+              5.963323411571759, 
+              31.65476816310135
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }

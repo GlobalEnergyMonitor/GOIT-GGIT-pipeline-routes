@@ -1,7 +1,132 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P0557" }, "geometry": { "type": "LineString", "coordinates": [ [ 4.3454, 36.3118 ], [ 3.061, 36.76 ] ] } }
-]
+  "type": "FeatureCollection", 
+  "name": "P0557", 
+  "crs": {
+    "type": "name", 
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }, 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "fid": 183.0, 
+        "ProjectID": "P0557", 
+        "Fuel": "Oil", 
+        "StartPrefe": null, 
+        "EndState/P": "Algiers", 
+        "CountriesO": "Algeria", 
+        "Wiki": "https://www.gem.wiki/Beni_Mansour-Algiers_Oil_Pipeline", 
+        "PipelineNa": "Beni Mansour-Algiers Oil Pipeline", 
+        "SegmentNam": null, 
+        "Status": "operating", 
+        "Owner": "Sonatrach [100.00%]", 
+        "Parent": "Sonatrach SpA [100.00%]", 
+        "OwnerEntit": "E100000000003", 
+        "ProposalYe": null, 
+        "Constructi": null, 
+        "Diameter": "20", 
+        "DiameterUn": "in", 
+        "StartYear1": "1971", 
+        "StartYear2": null, 
+        "StartYear3": null, 
+        "CancelledY": null, 
+        "DelayType": null, 
+        "StopYear": null, 
+        "ShelvedYea": null, 
+        "Capacity": "4.0", 
+        "CapacityUn": "mtpa", 
+        "CapacityBO": "80328.77", 
+        "LengthKnow": "145.0", 
+        "LengthKn_1": "km", 
+        "LengthKn_2": "145.0", 
+        "LengthEsti": "125.31", 
+        "LengthMerg": "145.0", 
+        "Diameter [": null, 
+        "FuelSource": null, 
+        "FuelSour_1": null, 
+        "StartLocat": "Beni Mansour", 
+        "StartCount": "Algeria", 
+        "StartSubRe": "Northern Africa", 
+        "StartRegio": "Africa", 
+        "EndLocatio": "Algiers", 
+        "EndPrefect": null, 
+        "EndCountry": "Algeria", 
+        "CostUSD": "--", 
+        "EndRegion": "Africa", 
+        "CostEuro": "--", 
+        "OtherLangu": null, 
+        "EndSubRegi": "Northern Africa", 
+        "RouteType": "Mapped route (at any accuracy)", 
+        "RouteAccur": "low", 
+        "Cost": null, 
+        "CostUnits": null, 
+        "LastUpdate": "2025-01-27"
+      }, 
+      "geometry": {
+        "type": "MultiLineString", 
+        "coordinates": [
+          [
+            [
+              4.278270543479792, 
+              36.224487724597665
+            ], 
+            [
+              4.191694086920885, 
+              36.24543748925952
+            ], 
+            [
+              4.096459984706087, 
+              36.259400880119166
+            ], 
+            [
+              4.018541173803071, 
+              36.268708420949615
+            ], 
+            [
+              3.97236706363832, 
+              36.29197241976626
+            ], 
+            [
+              3.908877662161788, 
+              36.34080424291589
+            ], 
+            [
+              3.822301205602881, 
+              36.42444474340675
+            ], 
+            [
+              3.747268276585161, 
+              36.533506596257936
+            ], 
+            [
+              3.672235347567441, 
+              36.60304025207804
+            ], 
+            [
+              3.582773009123237, 
+              36.63083618318966
+            ], 
+            [
+              3.487538906908439, 
+              36.64704584820053
+            ], 
+            [
+              3.357674222070079, 
+              36.63315205842996
+            ], 
+            [
+              3.259554237969983, 
+              36.62852023835049
+            ], 
+            [
+              3.14123308067281, 
+              36.67019659544807
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }
