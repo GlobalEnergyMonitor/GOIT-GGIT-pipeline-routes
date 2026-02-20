@@ -1,9 +1,1 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
-}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"MergedFrom": ["P7332-1.geojson", "P7332-2.geojson"], "GeometryType": "MultiLineString", "NumParts": 2}, "geometry": {"type": "MultiLineString", "coordinates": [[[31.300457113262752, 30.147768075258426], [33.24275718792461, 28.14268936258523]], [[33.27494780676719, 28.125650631953633], [33.24275718792461, 28.14268936258523]]]}}]}

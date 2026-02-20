@@ -1,7 +1,160 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "ProjectID": "P0558" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.1736, 31.6455 ], [ 7.9367, 31.4983 ], [ 6.7868, 31.1905 ] ] } }
-]
+  "type": "FeatureCollection", 
+  "name": "P0558", 
+  "crs": {
+    "type": "name", 
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }, 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "fid": 184.0, 
+        "ProjectID": "P0558", 
+        "Fuel": "Oil", 
+        "StartPrefe": null, 
+        "EndState/P": "Ouargla", 
+        "CountriesO": "Algeria", 
+        "Wiki": "https://www.gem.wiki/El_Borma-Mesdar_Oil_Pipeline", 
+        "PipelineNa": "El Borma-Mesdar Oil Pipeline", 
+        "SegmentNam": null, 
+        "Status": "operating", 
+        "Owner": "Sonatrach [100.00%]", 
+        "Parent": "Sonatrach SpA [100.00%]", 
+        "OwnerEntit": "E100000000003", 
+        "ProposalYe": null, 
+        "Constructi": null, 
+        "Diameter": "20", 
+        "DiameterUn": "in", 
+        "StartYear1": "1977", 
+        "StartYear2": null, 
+        "StartYear3": null, 
+        "CancelledY": null, 
+        "DelayType": null, 
+        "StopYear": null, 
+        "ShelvedYea": null, 
+        "Capacity": "2.0", 
+        "CapacityUn": "mtpa", 
+        "CapacityBO": "40164.38", 
+        "LengthKnow": "272.0", 
+        "LengthKn_1": "km", 
+        "LengthKn_2": "272.0", 
+        "LengthEsti": "233.17", 
+        "LengthMerg": "272.0", 
+        "Diameter [": null, 
+        "FuelSource": null, 
+        "FuelSour_1": null, 
+        "StartLocat": "El Borma oilfield", 
+        "StartCount": "Algeria", 
+        "StartSubRe": "Northern Africa", 
+        "StartRegio": "Africa", 
+        "EndLocatio": "Mesdar oilfield", 
+        "EndPrefect": null, 
+        "EndCountry": "Algeria", 
+        "CostUSD": "--", 
+        "EndRegion": "Africa", 
+        "CostEuro": "--", 
+        "OtherLangu": null, 
+        "EndSubRegi": "Northern Africa", 
+        "RouteType": "Mapped route (at any accuracy)", 
+        "RouteAccur": "low", 
+        "Cost": null, 
+        "CostUnits": null, 
+        "LastUpdate": "2025-01-27"
+      }, 
+      "geometry": {
+        "type": "MultiLineString", 
+        "coordinates": [
+          [
+            [
+              9.143867402090388, 
+              31.53093674793742
+            ], 
+            [
+              8.93608390634901, 
+              31.486649777366118
+            ], 
+            [
+              8.837963922248916, 
+              31.511256240620334
+            ], 
+            [
+              8.705213355525258, 
+              31.50141443239708
+            ], 
+            [
+              8.612865135195756, 
+              31.486649777366118
+            ], 
+            [
+              8.14447905497243, 
+              31.492109622422987
+            ], 
+            [
+              8.097622864996046, 
+              31.454811005058215
+            ], 
+            [
+              8.000786739044853, 
+              31.441486468767923
+            ], 
+            [
+              7.935188073077917, 
+              31.393502452305597
+            ], 
+            [
+              7.910198105090512, 
+              31.372168345858064
+            ], 
+            [
+              7.853970677118851, 
+              31.396168874876135
+            ], 
+            [
+              7.775877027158213, 
+              31.382836004785315
+            ], 
+            [
+              7.619689727236935, 
+              31.390835954007624
+            ], 
+            [
+              7.550967315271572, 
+              31.364166806816502
+            ], 
+            [
+              7.472873665310932, 
+              31.366834062189387
+            ], 
+            [
+              7.379161285358165, 
+              31.36950124187112
+            ], 
+            [
+              7.272953921411694, 
+              31.37483537414658
+            ], 
+            [
+              7.163622811466801, 
+              31.326817286059953
+            ], 
+            [
+              7.048044209525054, 
+              31.300129979975278
+            ], 
+            [
+              6.918408750590394, 
+              31.19864930068871
+            ], 
+            [
+              6.790335164654945, 
+              31.062280325043176
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }
