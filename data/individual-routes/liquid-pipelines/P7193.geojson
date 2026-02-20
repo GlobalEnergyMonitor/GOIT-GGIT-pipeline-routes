@@ -1,9 +1,8 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
+"type": "FeatureCollection",
+"name": "P7193",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 57.7516583, 19.1689406 ], [ 57.7518725, 19.1709305 ], [ 57.7553361, 19.1709305 ], [ 57.7606209, 19.1765966 ], [ 57.7590497, 19.1792946 ], [ 57.7612675, 19.1805956 ], [ 57.821560006540203, 19.212283621779363 ] ] } }
+]
 }
