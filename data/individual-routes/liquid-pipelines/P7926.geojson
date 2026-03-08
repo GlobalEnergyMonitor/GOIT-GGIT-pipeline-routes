@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P7926",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": null, "ProjectID": "P7905", "Fuel": null, "StartPrefe": null, "EndState/P": null, "CountriesO": null, "Wiki": null, "PipelineNa": null, "SegmentNam": null, "Status": null, "Owner": null, "Parent": null, "OwnerEntit": null, "ProposalYe": null, "Constructi": null, "Diameter": null, "DiameterUn": null, "StartYear1": null, "StartYear2": null, "StartYear3": null, "CancelledY": null, "DelayType": null, "StopYear": null, "ShelvedYea": null, "Capacity": null, "CapacityUn": null, "CapacityBO": null, "LengthKnow": null, "LengthKn_1": null, "LengthKn_2": null, "LengthEsti": null, "LengthMerg": null, "Diameter [": null, "FuelSource": null, "FuelSour_1": null, "StartLocat": null, "StartCount": null, "StartSubRe": null, "StartRegio": null, "EndLocatio": null, "EndPrefect": null, "EndCountry": null, "CostUSD": null, "EndRegion": null, "CostEuro": null, "OtherLangu": null, "EndSubRegi": null, "RouteType": null, "RouteAccur": null, "Cost": null, "CostUnits": null, "LastUpdate": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 9.681368613773179, 32.413063877957363, 0.0 ], [ 9.621942240490167, 32.245158567530986, 0.0 ], [ 9.614513943829794, 32.205883505859894, 0.0 ], [ 9.582943683023194, 32.1477252836535, 0.0 ], [ 9.484518752273212, 31.977753951107065, 0.0 ], [ 9.469662158952456, 31.957273154122163, 0.0 ], [ 9.425092378990202, 31.909992344638162, 0.0 ], [ 9.413949933999639, 31.895803360932646, 0.0 ], [ 9.384236747358134, 31.861109972023097, 0.0 ] ] ] } }
+]
+}
