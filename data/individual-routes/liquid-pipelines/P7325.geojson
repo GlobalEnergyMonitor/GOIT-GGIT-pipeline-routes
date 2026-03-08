@@ -1,9 +1,1 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"ProjectID":"P7325","SourceFiles":["P7325-1.geojson","P7325-2.geojson","P7325-3.geojson","P7325-4.geojson","P7325-5.geojson","P7325-6.geojson","P7325-7.geojson","P7325-8.geojson","P7325-9.geojson"],"Note":"Merged from provided segments. One component was disconnected from the main chain, so output is MultiLineString."},"geometry":{"type":"MultiLineString","coordinates":[[[31.077021118752555,29.083430261664887],[30.988890065669665,28.910141744174695],[30.929483558326012,28.888719892182536],[30.83772045798645,28.636995745413316],[30.76461941419055,28.371055849622778],[30.729770718526908,28.292753823686667],[30.73714614412816,28.145032725701938],[30.759696321829864,28.074600864772236],[30.795272180091047,27.440059161935324],[30.999577258819386,27.19791004143667]]]}}]}

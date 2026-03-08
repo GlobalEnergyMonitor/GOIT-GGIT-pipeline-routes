@@ -1,9 +1,47 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_files": [
+          "P7320-1.geojson",
+          "P7320-2.geojson",
+          "P7320-3.geojson",
+          "P7320-4.geojson",
+          "P7320-5.geojson"
+        ],
+        "operation": "Removed first feature from each source file, then merged remaining segments into one continuous LineString"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.07736692800694,
+            29.08358171408871
+          ],
+          [
+            31.058136553401482,
+            29.03172336400003
+          ],
+          [
+            30.930224777261486,
+            28.894128048840187
+          ],
+          [
+            30.734589486772933,
+            28.312241426964576
+          ],
+          [
+            30.736064986910407,
+            28.150774131779542
+          ],
+          [
+            30.759742397423224,
+            28.074654038390605
+          ]
+        ]
+      }
+    }
+  ]
 }

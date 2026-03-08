@@ -1,9 +1,8 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature", 
-            "geometry": null
-        }
-    ]
+"type": "FeatureCollection",
+"name": "P7398",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 446, "FeatureUID": "CbI_459", "InfSource1": "Cross-border Information (London) Ltd. and the African Energy Live Data platform (https://www.africa-energy.com/live-data), accessed 2020-07-31.", "FeatureTyp": "Pipeline", "DsgAttr01": "Refined Product", "DsgAttr02": "Enugu", "DsgAttr03": "Auchi", "DsgAttr04": 156, "Shape_Length": 1.4122137345120767 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 7.543712858745323, 6.451936012049771 ], [ 6.272029707303034, 7.066077359202325 ] ] ] } }
+]
 }
