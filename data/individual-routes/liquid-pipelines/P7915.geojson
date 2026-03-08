@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "P7915",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 45.661115108337896, 32.497884004579269 ], [ 45.49710977102189, 32.513561263791651 ], [ 45.415012432924193, 32.551731981873978 ], [ 45.343215129864539, 32.600202734994419 ], [ 45.084727813278754, 32.773382303640965 ] ] ] } }
+]
+}
