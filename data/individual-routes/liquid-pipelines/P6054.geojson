@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "P6054",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "ProjectID": "P6054" }, "geometry": null }
+{ "type": "Feature", "properties": { "full_id": "w220018056", "osm_id": "220018056", "osm_type": "way", "man_made": "pipeline", "oneway": null, "name": null, "layer": null, "usage": null, "location": null, "operator": null, "substance": "oil", "submarine": "yes", "seamark:type": "pipeline_submarine", "seamark:pipeline_submarine:product": "oil", "seamark:pipeline_submarine:category": "supply" }, "geometry": { "type": "LineString", "coordinates": [ [ 49.4713516, 29.0672277 ], [ 49.4567296, 29.0180879 ] ] } }
 ]
 }
