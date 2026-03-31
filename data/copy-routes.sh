@@ -6,13 +6,24 @@ TARGET_DIR="./"     # folder where you want copies to go
 
 # === LIST OF PROJECT IDs ===
 PROJECT_IDS=(
-P7964
-  P7969
-  P7970
-  P7971
-  P7972
-  P7973
-  P7974
+P5363 
+      P6132 
+      P6146 
+      P6182 
+      P6295 
+      P6312 
+      P6361
+      P7352 
+      P7366
+      P7386 
+      P7387 
+      P7388 
+      P7389 
+      P7390 
+      P7391 
+      P7392 
+      P7393 
+      P7398 
 )
 
 # === CREATE TARGET DIR IF NOT EXISTS ===
