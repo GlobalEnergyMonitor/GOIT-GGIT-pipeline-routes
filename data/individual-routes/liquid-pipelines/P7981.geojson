@@ -3,6 +3,6 @@
 "name": "P7981",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 50.267881425859819, 29.8230341636189 ], [ 49.7640096, 29.7102566 ], [ 49.404069955288975, 29.52561073114876 ] ] ] } }
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 50.267881425859819, 29.8230341636189 ], [ 49.7640096, 29.7102566 ], [ 49.498375086, 29.533071274 ] ] ] } }
 ]
 }
