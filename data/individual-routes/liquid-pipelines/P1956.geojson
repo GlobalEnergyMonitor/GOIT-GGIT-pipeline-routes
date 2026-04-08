@@ -4,48 +4,44 @@
     "type": "LineString",
     "coordinates": [
       [
-        48.04126883791986,
-        25.073745331385048
+        47.513110075415405,
+        25.179409565846303
       ],
       [
-        47.98786226592034,
-        25.02417458949577
+        47.90282157149622,
+        24.784887756196426
       ],
       [
-        47.402449718345736,
-        24.767193587088787
+        47.95672800025579,
+        24.78577619391142
       ],
       [
-        47.38307009232852,
-        24.741354085278008
+        47.96604273384478,
+        24.663371438643082
       ],
       [
-        47.36261382017193,
-        24.71766787627966
+        48.01918997389986,
+        24.597719147537212
       ],
       [
-        47.30985817102055,
-        24.698288249929057
+        48.12100300699256,
+        24.4665538393859
       ],
       [
-        47.192503768777904,
-        24.65845235175056
+        48.118308030597504,
+        24.175317196584924
       ],
       [
-        47.020240425105115,
-        24.588470368376374
+        48.09919048626779,
+        23.87610374834855
       ],
       [
-        46.9093458979021,
-        24.546481178879183
+        47.11592529865329,
+        23.053980383725897
       ],
       [
-        46.88888962574555,
-        24.518488385626277
-      ],
-      [
-        46.86843335448725,
-        24.522794969134303
+        46.84432893592695,
+        22.984131236923176
       ]
     ]
   },
@@ -56,14 +52,14 @@
     "status": "Operating",
     "pipe_type": "National",
     "operator": "Aramco",
-    "project_na": "Khurais - Riyadh",
-    "start": "Khurais field, Saudi Arabia",
-    "End_": "Riyadh refinery, Saudi Arabia",
+    "project_na": "Hawtah - Hawtah Stabilizer",
+    "start": "Hawtah field, Saudi Arabia",
+    "End_": "Hawtah Stabilizer, Petroline, Saudi Arabia",
     "Shareholde": "Aramco",
-    "length": 88,
-    "diameter": 26,
+    "length": 206,
+    "diameter": 24,
     "capacity": "Not specified",
-    "Scope": "Saudi Aramco operated pipeline from Khurais field to Riyadh refinery",
+    "Scope": "Saudi Aramco operated pipeline from Hawtah field to Hawtah Stabilizer",
     "linked": " ",
     "eng_co": " ",
     "con_co": " ",
@@ -74,11 +70,11 @@
     "email": "Mohammad.Manzouri@aramco.com",
     "website": "https://www.aramco.com/",
     "start_date": " ",
-    "Shape_STLe": 852,
+    "Shape_STLe": 696,
     "Shape_ST_1": 0,
-    "Shape_ST_2": 1.46727823,
-    "Capacity_Mbpd": 499,
-    "OBJECTID_1": 402,
+    "Shape_ST_2": 3.09267103,
+    "Capacity_Mbpd": 425,
+    "OBJECTID_1": 404,
     "created_user": null,
     "created_date": null,
     "last_edited_user": "SDE",
